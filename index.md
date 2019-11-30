@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Github as your blog
 
-You can use the [editor on GitHub](https://github.com/chocolkh/Github_blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will be a log page for Github page setup as a blog.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Following would be possilbe contents: 
 
 ```markdown
-Syntax highlighted code block
+### Pre-setting
 
-# Header 1
-## Header 2
-### Header 3
+1. Upgrade Ruby on your mac and install Ruby gem
+2. Install Jekyll on your desktop
 
-- Bulleted
-- List
+### Setup your blog
+1. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chocolkh/Github_blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
